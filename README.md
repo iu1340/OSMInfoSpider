@@ -1,0 +1,2 @@
+# OSMInfoSpider
+OpenStreetMap;Spider;Python
